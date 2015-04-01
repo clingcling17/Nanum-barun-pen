@@ -1,11 +1,14 @@
 {
   "name": "NanumBarunGothic",
   "version": "1.0.0",
-  "homepage": "https://github.com/openhiun/hangul",
+  "homepage": "https://github.com/zkyz/NanumBarunGothic",
   "authors": [
     "Naver"
   ],
-  "main": "nanumbarungothic.css",
+  "main": [
+    "css/nanumbarungothic.css",
+    "fonts/*"
+  ],
   "keywords": [
     "nanum",
     "nanumbarungothic",
