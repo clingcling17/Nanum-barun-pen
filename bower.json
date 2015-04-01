@@ -17,6 +17,7 @@
   "license": "SIL OPEN FONT LICENSE",
   "ignore": [
     "**/.*",
+    "*.html",
     "node_modules",
     "bower_components",
     "test",
