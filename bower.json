@@ -1,9 +1,9 @@
 {
-  "name": "NanumBarunGothic",
-  "version": "1.0.0",
+  "name": "nanum-barun-gothic",
+  "version": "1.0.1",
   "homepage": "https://github.com/zkyz/NanumBarunGothic",
   "authors": [
-    "Naver"
+    "zkyz <hellozkyz@gmail.com>"
   ],
   "main": [
     "css/nanumbarungothic.css",
@@ -22,5 +22,13 @@
     "bower_components",
     "test",
     "tests"
+  ],
+  "description": "I love hangul!",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
   ]
 }
